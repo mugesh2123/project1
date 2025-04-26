@@ -3,6 +3,8 @@
 tool used:
  1.zap
  2.burp suite
+ 3.Virtual box
+ 4.kali linux
  # zap
    I will scan the Altoro Mutual website using the ZAP tool for automation. The process will involve using ZAP’s fuzzing and spidering features to find subdomains. It will  input malicious code to test for vulnerabilities, analyze the results with ZAP, and generate a report highlighting the vulnerabilities found.
  # burp suite
